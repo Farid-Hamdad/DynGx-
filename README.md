@@ -79,6 +79,8 @@ L’extension des règles d’auto-modification à d’autres types de comportem
 L’intégration d’un module d’évaluation des risques avant modification
 L’étude des effets de modifications multiples et cumulatives
 
+<img width="1738" height="780" alt="image" src="https://github.com/user-attachments/assets/dad125cd-ea47-4897-b9fa-eb9465489295" />
+
 <img width="1408" height="801" alt="image" src="https://github.com/user-attachments/assets/08683f8d-a745-48f0-84c3-4edfc651af60" />
 
 
